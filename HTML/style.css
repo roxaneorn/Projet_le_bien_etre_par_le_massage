@@ -1,0 +1,342 @@
+.color-navbar{
+    background-color: rgba(255, 230, 207, 0.482);
+}
+
+.navbar-brand{
+    margin-left: 10px;
+    position: relative;
+    display: block;
+    line-height: 1;
+    font-family: AlexBrush;
+}
+
+#button-toggle{
+    color: antiquewhite;
+}
+#bar-toggle-icon{
+    color: antiquewhite;
+}
+
+#navbar-padding{
+    padding: 0px;
+}
+
+#navbarNav{
+    margin-left: 10px;
+}
+
+#titreh1{
+    font-size: 5vw;
+    margin-bottom: 0px;
+    color: black;
+}
+
+.navbar-nav{
+    font-family: Comfortaa-Regular;
+    display: flex;
+    justify-content: end;
+}
+
+.navbar_modif{
+    justify-content: end;
+}
+
+.margin_elmt_navbar{
+    margin-right: 20px;
+}
+
+.font-size-h3{
+    font-size: 2vw;
+    margin: 0px;
+}
+
+@font-face{
+    font-family: Comfortaa-Ligth;
+    src: url(Comfortaa-Light.ttf);
+    }
+
+@font-face{
+    font-family: Comfortaa-Regular;
+    src: url(Comfortaa-Regular.ttf);
+    }
+
+@font-face{
+    font-family: Comfortaa-Bold;
+    src: url(Comfortaa-Bold.ttf);
+    }
+@font-face{
+    font-family: AlexBrush;
+    src: url(AlexBrush-Regular.ttf);
+    }    
+.format-row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.format-rowreverse{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+.format-colum{
+    display: flex;
+    flex-direction: column;
+}
+
+.format-colum-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.format-colum-presta{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 30%;
+    margin-left: 30px;
+}
+
+.samuel_1{
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px 50px 0px 50px;
+    width: 200px;
+    border: medium solid black;
+}
+
+.samuel_4{
+    border-radius: 30px;
+    padding: 5px;
+    margin-top: 70px;
+    width: 17%;
+}
+.Encens{
+    border-radius: 30px;
+    padding: 5px;
+    margin: 0px 50px 0px 50px;
+    width: 200px;
+    border: medium solid black;
+}
+.FeuilleDAutomne{
+    position: absolute;
+    border-radius: 4px;
+    padding: 5px;
+    margin: 15em 0em 0em 55em;
+    width: 240px;
+}
+.titre-h2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: Comfortaa-Regular;
+    color: antiquewhite;
+    font-size: 3vw;
+}
+
+.titre-h2-presta{
+    font-family: Comfortaa-Regular;
+    color:antiquewhite;
+}
+
+h3{
+    color:black;
+    font-size: 10px;
+}
+body{
+    background-image: url("bougie-et-serviette2.jpeg");
+    background-size: cover;
+    font-size: 1.2vw;
+    font-family: Comfortaa-Regular;
+}
+
+.backgroud-p{
+    background-color: rgba(224, 219, 211, 0.66);
+    border-radius: 10%;
+    width: 500px;
+    font-family: Comfortaa-Regular;
+    padding: 10px;
+}
+
+.backgroud-p-presta{
+    background-color: rgba(224, 219, 211, 0.66);
+    border-radius: 10%;
+    width: 500px;
+    font-family: Comfortaa-Regular;
+}
+
+.contenu{
+    font-family: Comfortaa-Regular;
+}
+
+.contenu-accueil{
+    font-family: Comfortaa-Regular;
+    font-size: 20px;
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 50%;
+}
+
+.footer-format{
+    background-color: rgba(255, 230, 207, 0.482);
+    margin-top: 20px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+}
+
+.itg_logo{
+    width: 25px;
+    height: 25px;
+    margin-top: 5px;
+
+}
+
+.div_footer_format{
+    display: flex;
+    justify-content: center;
+}
+
+.contact_footer{
+    font-family: Comfortaa-Regular;
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+#contact_link:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.contact_margin{
+    margin: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: medium solid black;
+    border-radius: inherit;
+}
+
+.format_contact_name{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.format_texte_contact{
+    font-size: 2vw;
+    margin-right: 15px;
+}
+
+.prestations_texte{
+    border: medium solid black;
+    margin: 15px;
+    padding: 10px;
+    border-radius: inherit;
+}
+
+.format_titre_presta{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.massage_pied{
+    border-radius: 30px;
+    padding: 5px;
+    width: 100%;
+}
+
+.massage_dos{
+    width: 30%;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.margin_presta_text_1{
+    margin-top: 30px;
+}
+
+.margin_text_2_presta{
+    margin-left: 30px;
+}
+
+.margin_bottom{
+    margin-bottom: 45px;
+}
+
+.margin_left{
+    margin-left: 50px;
+}
+
+@media (min-width: 500px) {
+.start-end{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.start-left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+
+@media (max-width: 500px) {
+    .start-end{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .start-left{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .content-center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+}
+
+/** Gallery images**/
+.gallery-contour{
+    margin: 10px;
+}
+.gallery {
+    margin: 30px;
+    border: medium solid black;
+    float: left;
+    width: 180px;
+  }
+  
+.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: antiquewhite;
+  }
+
