@@ -4,3 +4,4 @@ Disallow: /accueil.html
 Disallow: /contact.html
 Disallow: /gallerie.html
 Disallow: /prestations.html
+Sitemap : https://www.le-bien-etre-par-le-massage.fr/sitemap.txt
