@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap : https://www.le-bien-etre-par-le-massage.fr/sitemap.txt
