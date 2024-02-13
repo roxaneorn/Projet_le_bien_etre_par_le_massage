@@ -164,7 +164,7 @@ body{
     padding: 10px;
 }
 
-.backgroud-p-presta{
+.backgroud-p-presta, .backgroud-p-presta-2{
     background-color: rgba(224, 219, 211, 0.66);
     border-radius: 10%;
     width: 500px;
@@ -435,7 +435,7 @@ body{
         height: 20px;
         width: 20px;
     }
-    .backgroud-p-presta{
+    .backgroud-p-presta-2{
         width: max-content;
     }
 
