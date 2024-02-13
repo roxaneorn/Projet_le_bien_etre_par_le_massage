@@ -439,6 +439,7 @@ body{
         width: max-content;
     }
 
+
 }
 
 @media (max-width: 530px) {
@@ -493,6 +494,9 @@ body{
     .itg_logo_2{
         height: 15px;
         width: 15px;
+    }
+    .backgroud-p-presta{
+        width: auto;
     }
 
 }
